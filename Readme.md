@@ -2,6 +2,8 @@
 
 A simple and clean Pomodoro Study Timer built with HTML, CSS, and JavaScript.
 
+Live Link: https://rwzan.github.io/Pomodoro-Timer/
+
 ## 🚀 Features
 - 25-minute focus timer
 - Start / Pause / Reset controls
